@@ -43,6 +43,6 @@ Telegram Mini App, integrated with **Telegram, Telegram App Center, TON, AdsGram
 - [Website](https://solarian.tech)  
 - [Telegram Bot](https://t.me/solarianTechBot)  
 - [Telegram Channel](https://t.me/solarianTech)  
-- [YouTube]([https://www.youtube.com/](https://www.youtube.com/@solariantech)
+- [YouTube](https://www.youtube.com/@solariantech)
 - [X / Twitter](https://x.com/solarianTech)  
 - [Instagram](https://instagram.com/solarianTech)
